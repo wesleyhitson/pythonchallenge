@@ -15,3 +15,5 @@ while str(start_file) + ".txt" in names:
     start_file = contents.split(' ')[-1]
 
 print("".join(comments))
+
+# gets hockey, which leads to oxygen

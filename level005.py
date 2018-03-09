@@ -9,3 +9,5 @@ for d in data:
     for lst in d:
         str += lst[0] * lst[1]
     print(str)
+
+# gives channel
